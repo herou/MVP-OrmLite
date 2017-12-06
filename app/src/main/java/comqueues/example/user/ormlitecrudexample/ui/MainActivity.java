@@ -38,7 +38,6 @@ public class MainActivity extends AppCompatActivity implements MainView {
 
      
         mainPresenter = new MainPresenterImpl(this,databaseOperations);
-
         p = new Person();
 
     }
