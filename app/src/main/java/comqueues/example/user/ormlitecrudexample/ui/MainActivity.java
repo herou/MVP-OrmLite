@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity implements MainView {
         setContentView(R.layout.activity_main);
         ButterKnife.bind(this);
 
-        databaseOperations = new DatabaseOperationsImp(this);
+     
         mainPresenter = new MainPresenterImpl(this,databaseOperations);
 
         p = new Person();
