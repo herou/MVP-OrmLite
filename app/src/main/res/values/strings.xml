@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OrmLiteCrudExample</string>
+    <string name="enter_your_first_name">Enter your first name, ex.Eljo</string>
+    <string name="add_first_and_last_name">Add First name</string>
+    <string name="delete_by_first_name">Delete your first name</string>
+    <string name="edit_first_and_last_name">Edit your first name</string>
+    <string name="show_first_name_and_lastname">Show all</string>
+    <string name="there_is_not_any_person_in_db">There is not any Person in db !</string>
+    <string name="there_is_not_any_person_with_this_name">There is not any Person with this name!</string>
+    <string name="person_updated">Person updated !</string>
+    <string name="person_deleted">Person deleted !</string>
+    <string name="person_added">Person added !</string>
+    <string name="field_empty">Make sure the field is not empty!</string>
+    <string name="id">Id :</string>
+    <string name="name">Name :</string>
+    <string name="error_while_adding">Error while adding Person</string>
+</resources>
